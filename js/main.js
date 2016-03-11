@@ -1,3 +1,5 @@
+var insects = {
+
 // Create your variable here, name it `insects`
 
 
