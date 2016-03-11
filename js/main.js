@@ -3,8 +3,7 @@ var insects = [
     name: 'Ant Nest Beetle',
     img: 'ant-nest-beetle.jpg',
     family: 'Carabidae',
-    minSize: '6',
-    maxSize: '20',
+    size: [6, 20],
     eatsInsects: 'Yes',
     eatsDung: 'No',
     eatsPlants: 'No'
@@ -13,8 +12,7 @@ var insects = [
     name: 'Dung Beetle',
     img: 'dung-beetle.jpg',
     family: 'Scarabidae',
-    minSize: '20',
-    maxSize: '30',
+    size: [20, 30],
     eatsInsects: 'No',
     eatsDung: 'Yes',
     eatsPlants: 'No'
@@ -23,8 +21,7 @@ var insects = [
     name: 'Stag Beetle',
     img: 'stag-beetle.jpg',
     family: 'Lucanidae',
-    minSize: '5',
-    maxSize: '120',
+    size: [5, 120],
     eatsInsects: 'No',
     eatsDung: 'No',
     eatsPlants: 'Yes'
@@ -33,8 +30,7 @@ var insects = [
     name: 'Tortoise Beetle',
     img: 'tortoise-beetle.jpg',
     family: 'Cassidinae',
-    minSize: '1',
-    maxSize: '18',
+    size: [1, 18],
     eatsInsects: 'No',
     eatsDung: 'No',
     eatsPlants: 'Yes'
